@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 - :zap: In my free time, I read latest tech articles to keep myself updated with latest technologies.
  
-- :mailbox:  How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/Amit%20Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumarusa/)
+- :mailbox:       How to reach me:          [![Linkedin Badge](https://img.shields.io/badge/Amit%20Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumarusa/)
 
 
 
