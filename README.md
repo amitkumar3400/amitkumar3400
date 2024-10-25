@@ -28,13 +28,13 @@ alt="Twitter Badge"/></a>
  
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sterling , Virginia.
  
-- :telescope: Lead FullStack Developer with a passion for crafting end-to-end web applications. From gathering requirements and designing system architecture to implementing frontend and backend solutions, I oversee 
-        the full development lifecycle. I collaborate closely with cross-functional teams, including UI/UX designers and project managers, to transform business needs into functional and visually compelling 
-        digital solutions
--  🔭  Expert with different technologies and frameworks such as  Angular , React , GraphQl , AWS , NODE , JAVA (8,17,21) , Spring , SpringBoot , MicroServices , SQL , Oracle , DynamoDB, Docker , Kubernetes , Kafka , 
-       EKS , GitHub Action , Jenkins , CI/CD  and Testing Frameworks such as Mocha , Jest , Jasmine , Karma , Playwright , Cypress , Junit , Easy Mock , Mockito 
--  🌱  I’m currently learning AI LLM  modeling & prompt engineering with Gemini & Chat Gpt
--  👯  I’m looking to collaborate on
+- :telescope:   Lead FullStack Developer with a passion for crafting end-to-end web applications. From gathering requirements and designing system architecture to implementing frontend and backend solutions, I oversee 
+          the full development lifecycle. I collaborate closely with cross-functional teams, including UI/UX designers and project managers, to transform business needs into functional and visually compelling 
+          digital solutions
+-  🔭     Proficient in a wide range of technologies and frameworks, including Angular, React, GraphQL, AWS, Node.js, Java (8, 17, 21), Spring, Spring Boot, Microservices, SQL, Oracle, DynamoDB, Docker, Kubernetes, 
+          Kafka, EKS, GitHub Actions, Jenkins, and CI/CD pipelines. Experienced with testing frameworks such as Mocha, Jest, Jasmine, Karma, Playwright, Cypress, JUnit, EasyMock, and Mockito.
+-  🌱     I’m currently learning AI LLM  modeling & prompt engineering for Gemini & Chat Gpt based models.
+-  👯     I’m looking to collaborate on MicroService Designs and Artificial Inteligence .
  
 - :seedling: Exploring Technical Content Writing , always learning something new .
  
