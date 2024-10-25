@@ -33,8 +33,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
           digital solutions
 -  🔭     Proficient in a wide range of technologies and frameworks, including Angular, React, GraphQL, AWS, Node.js, Java (8, 17, 21), Spring, Spring Boot, Microservices, SQL, Oracle, DynamoDB, Docker, Kubernetes, 
           Kafka, EKS, GitHub Actions, Jenkins, and CI/CD pipelines. Experienced with testing frameworks such as Mocha, Jest, Jasmine, Karma, Playwright, Cypress, JUnit, EasyMock, and Mockito.
--  🌱     I’m currently learning AI LLM  modeling & prompt engineering for Gemini & Chat Gpt based models.
--  👯     I’m looking to collaborate on MicroService Designs and Artificial Inteligence .
+-  🌱     I am currently expanding my knowledge in the field of Artificial Intelligence, focusing on Large Language Model (LLM) development and prompt engineering, particularly for cutting-edge models like Gemini and 
+          ChatGPT. My goal is to deepen my understanding of how these advanced models can be applied to real-world problems, enhancing user experiences and automating complex tasks through natural language processing 
+          and AI-driven solutions.
+          I'm passionate about contributing to the AI community by developing innovative use cases for these models, exploring their potential to revolutionize industries, and staying at the forefront of emerging AI 
+          technologies. Eager to apply this knowledge to practical applications, I am committed to driving meaningful advancements in AI through continuous learning and hands-on experimentation.
+-  👯     I’m looking to collaborate on MicroServices & System Designs , Artificial Inteligence  and cloud migrations .
  
 - :seedling: Exploring Technical Content Writing , always learning something new .
  
