@@ -28,17 +28,20 @@ alt="Twitter Badge"/></a>
  
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sterling , Virginia.
  
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Lead FullStack Developer with a passion for crafting end-to-end web applications. From gathering requirements and designing system architecture to implementing frontend and backend solutions, I oversee the full development lifecycle. I collaborate closely with cross-functional teams, including UI/UX designers and project managers, to transform business needs into functional and visually compelling digital solutions
+-   🔭 I’m currently working on  Angular , React , GraphQl , AWS , NODE , JAVA (8,17,21) , Spring , SpringBoot , MicroServices , SQL , Oracle , DynamoDB , Docker , Kubernetes , Kafka , EKS , GitHub , CI/CD 
+-  🌱 I’m currently learning AI LLM  modeling & prompt engineering with Gemini & Chat Gpt
+-  👯 I’m looking to collaborate on
  
 - :seedling: Exploring Technical Content Writing , always learning something new .
  
 - :zap: In my free time, I read latest tech articles to keep myself updated with latest technologies.
  
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Amit%20Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumarusa/)
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- :mailbox:  How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/Amit%20Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumarusa/)
+
+
+
+  <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
